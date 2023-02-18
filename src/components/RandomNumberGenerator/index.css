@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.background {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #ffffff;
+  height: 40vh;
+  width: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 50px;
+}
+.heading {
+  color: #0b69ff;
+}
+.para {
+  text-align: center;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+}
